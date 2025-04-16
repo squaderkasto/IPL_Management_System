@@ -12,6 +12,7 @@ The IPL Management System is a two-pronged approach, leveraging the strengths of
  Imagine a user-friendly dashboard where you can manage your entire IPL league with just a few clicks. Streamlit, a web app development library, brings this vision to life. It simplifies the creation of interactive web interfaces without the complexities of traditional web development.
 
  The Streamlit interface in the IPL Management System features a user-friendly menu that grants access to various functionalities:
+ 
 ●	By offering a clear and intuitive interface, Streamlit empowers league administrators to manage critical data with ease, saving them valuable time and effort.
 
 ●	Flask: The Powerhouse Back-End
